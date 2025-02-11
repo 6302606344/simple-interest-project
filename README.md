@@ -1,4 +1,3 @@
-# Simple Interest Calculator
-A simple shell script to calculate simple interest.
-## Usage
-Run `simple-interest.sh` with the required parameters.
+git add README.md
+git commit -m "Fix typo in README"
+git push origin bug-fix-typo
